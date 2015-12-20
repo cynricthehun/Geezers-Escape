@@ -1,0 +1,459 @@
+e43a8e485f7f4c989c2e57d13f38c7c1
+0
+INDIE GAME DEV
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\
+129538488560000000
+Default Thumbnail
+2011-06-29T19:20:55.4731772Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Platformer.exe
+2011-06-29T07:48:38.8703620Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Overlays\you_died.xnb
+2011-06-29T07:26:36.6493680Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Overlays\you_win.xnb
+2011-06-29T07:26:36.8948760Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Overlays\Face.xnb
+2011-06-29T07:26:37.4765670Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Overlays\you_lose.xnb
+2011-06-29T07:27:22.1594080Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Midieval\10.txt
+2011-06-29T17:50:43.6088360Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Midieval\14.txt
+2011-06-29T17:50:43.6400360Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Midieval\13.txt
+2011-06-29T17:50:43.7024361Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Midieval\12.txt
+2011-06-29T17:50:43.7336362Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Midieval\11.txt
+2011-06-29T07:31:03.2772220Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Prehistoric\6.txt
+2011-06-28T21:27:22.6600447Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Prehistoric\9.txt
+2011-06-28T21:27:22.6324440Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Prehistoric\5.txt
+2011-06-29T07:43:02.3620000Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Prehistoric\8.txt
+2011-06-28T21:27:22.6324440Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Prehistoric\7.txt
+2011-06-28T21:27:22.6530443Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Nursing\3.txt
+2011-06-29T07:06:22.5594630Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Nursing\1.txt
+2011-06-29T07:06:24.4311090Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Nursing\2.txt
+2011-06-29T07:09:24.0622420Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Nursing\0.txt
+2011-06-29T07:11:14.4105800Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Nursing\4.txt
+2011-06-29T07:06:17.1027320Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Space\17.txt
+2011-06-29T19:15:54.8259811Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Space\18.txt
+2011-06-29T18:26:58.7800489Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Space\19.txt
+2011-06-29T18:45:43.0013507Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Space\16.txt
+2011-06-28T21:27:24.0000000Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Levels\Space\15.txt
+2011-06-29T01:06:36.0000000Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Music\Midieval.xnb
+2011-06-29T07:27:46.7060068Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Music\Nursing.xnb
+2011-06-29T07:27:41.2388783Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Music\Space.xnb
+2011-06-29T07:27:44.8342522Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Music\Nursing.wma
+2011-06-29T07:27:41.1069480Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Music\Prehistoric.xnb
+2011-06-29T07:27:42.9738811Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Music\Midieval.wma
+2011-06-29T07:27:46.5992490Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Music\Space.wma
+2011-06-29T07:27:44.7151780Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Music\Prehistoric.wma
+2011-06-29T07:27:42.8745360Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Fonts\mono.xnb
+2011-06-29T07:27:38.1274510Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Fonts\Hud.xnb
+2011-06-29T07:27:38.0055000Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\DeathSS.xnb
+2011-06-29T07:27:25.0277280Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\HealthBar.xnb
+2011-06-29T07:26:37.6776210Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Gem.xnb
+2011-06-29T07:26:31.0472180Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Deco\Idle.xnb
+2011-06-29T07:26:38.3256320Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\KnifeManSS.xnb
+2011-06-29T07:26:43.8280910Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Trap\Die.xnb
+2011-06-29T07:27:32.9905680Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Trap\Idle.xnb
+2011-06-29T07:27:28.7022400Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Trap\Run.xnb
+2011-06-29T07:27:29.0029650Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Mage\Die.xnb
+2011-06-29T07:27:31.9306110Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Mage\Idle.xnb
+2011-06-29T07:27:26.0789400Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Mage\Run.xnb
+2011-06-29T07:27:26.6077530Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Knight\Die.xnb
+2011-06-29T07:27:31.4603180Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Knight\Idle.xnb
+2011-06-29T07:27:07.3171730Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Knight\Run.xnb
+2011-06-29T07:26:38.0306830Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\BarrelMan\Die.xnb
+2011-06-29T07:27:31.2117340Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\BarrelMan\Idle.xnb
+2011-06-29T07:27:22.7026060Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\BarrelMan\Run.xnb
+2011-06-29T07:26:43.5298510Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Spear\Die.xnb
+2011-06-29T07:27:32.1974310Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Spear\Idle.xnb
+2011-06-29T07:27:29.4957180Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Spear\Run.xnb
+2011-06-29T07:27:29.8902280Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Latern\Die.xnb
+2011-06-29T07:27:31.6973240Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Latern\Idle.xnb
+2011-06-29T07:26:44.1706360Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Latern\Run.xnb
+2011-06-29T07:27:07.6575730Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Sword\Die.xnb
+2011-06-29T07:27:32.7446860Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Sword\Idle.xnb
+2011-06-29T07:27:27.0036840Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Sword\Run.xnb
+2011-06-29T07:27:27.3368210Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Standard\Die.xnb
+2011-06-29T07:27:32.4744780Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Standard\Idle.xnb
+2011-06-29T07:27:25.2671610Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Midieval\Enemys\Standard\Run.xnb
+2011-06-29T07:27:25.5420300Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Buffs\Slips.xnb
+2011-06-29T07:27:15.6446020Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Buffs\Spring.xnb
+2011-06-29T07:27:15.7779380Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Boss\Midieval\Die.xnb
+2011-06-29T07:27:30.2169770Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Boss\Midieval\Idle.xnb
+2011-06-29T07:27:10.1343910Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Boss\Midieval\Run.xnb
+2011-06-29T07:27:10.8004720Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Boss\Prehistoric\Die.xnb
+2011-06-29T07:27:30.7316300Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Boss\Prehistoric\Idle.xnb
+2011-06-29T07:27:13.3337160Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Boss\Prehistoric\Run.xnb
+2011-06-29T07:27:11.7934940Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Boss\Nursing\Die.xnb
+2011-06-29T07:27:30.4668910Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Boss\Nursing\Idle.xnb
+2011-06-29T07:27:13.8241320Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Boss\Nursing\Run.xnb
+2011-06-29T07:27:11.2117510Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Boss\Space\Die.xnb
+2011-06-29T07:27:30.9456330Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Boss\Space\Idle.xnb
+2011-06-29T07:27:12.3035370Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Boss\Space\Run.xnb
+2011-06-29T07:27:12.7580950Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Deco\CelingFanSS.xnb
+2011-06-29T07:26:38.9478400Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\Security\Die.xnb
+2011-06-29T07:27:34.2614860Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\Security\Idle.xnb
+2011-06-29T07:26:39.5005530Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\Security\Run.xnb
+2011-06-29T07:26:42.6469900Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\Boxer\BoxerSS.xnb
+2011-06-29T07:26:44.5207930Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\Boxer\Die.xnb
+2011-06-29T07:27:33.2796840Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\Boxer\Idle.xnb
+2011-06-29T07:26:43.1839490Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\Boxer\Run.xnb
+2011-06-29T07:26:38.7274430Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\Wheeler\Die.xnb
+2011-06-29T07:27:34.5028700Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\Wheeler\Idle.xnb
+2011-06-29T07:26:39.7664440Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\Wheeler\Run.xnb
+2011-06-29T07:26:42.3382400Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\IVGuy\Die.xnb
+2011-06-29T07:27:33.5282050Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\IVGuy\Idle.xnb
+2011-06-29T07:26:42.8925760Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\IVGuy\Run.xnb
+2011-06-29T07:26:39.1802900Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\Nurse\Die.xnb
+2011-06-29T07:27:34.0091510Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\Nurse\Idle.xnb
+2011-06-29T07:27:28.0618900Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\Nurse\Run.xnb
+2011-06-29T07:27:28.3309210Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\Janitor\Die.xnb
+2011-06-29T07:27:33.7653230Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\Janitor\Idle.xnb
+2011-06-29T07:26:42.0482660Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Natural\Enemys\Janitor\Run.xnb
+2011-06-29T07:26:41.7449030Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\InverseCycles\Die.xnb
+2011-06-29T07:27:23.5359850Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\InverseCycles\Attack.xnb
+2011-06-29T07:27:22.9966070Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\InverseCycles\Idle.xnb
+2011-06-29T07:27:23.6894950Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\InverseCycles\Jump.xnb
+2011-06-29T07:27:23.9818620Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\InverseCycles\Run.xnb
+2011-06-29T07:27:24.2938980Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\InverseCycles\Celebrate.xnb
+2011-06-29T07:27:23.2380790Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Player\Die.xnb
+2011-06-29T07:26:31.6936100Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Player\Attack.xnb
+2011-06-29T07:27:09.4583590Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Player\Idle.xnb
+2011-06-29T07:26:31.8616290Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Player\Jump.xnb
+2011-06-29T07:26:32.1466850Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Player\Run.xnb
+2011-06-29T07:26:32.8110930Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Player\Celebrate.xnb
+2011-06-29T07:26:31.3808670Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Deco\Campfire\Die.xnb
+2011-06-29T07:27:34.7279690Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Deco\Campfire\Idle.xnb
+2011-06-29T07:27:14.6903520Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Deco\Campfire\Run.xnb
+2011-06-29T07:27:14.4255700Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Enemy\Thorns\Die.xnb
+2011-06-29T07:27:35.9766850Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Enemy\Thorns\Idle.xnb
+2011-06-29T07:27:27.5572340Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Enemy\Thorns\Run.xnb
+2011-06-29T07:27:27.7642350Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Enemy\NestRaptor\Die.xnb
+2011-06-29T07:27:35.4423440Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Enemy\NestRaptor\Idle.xnb
+2011-06-29T07:26:45.1389520Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Enemy\NestRaptor\Run.xnb
+2011-06-29T07:27:24.5159500Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Enemy\Ptero\Die.xnb
+2011-06-29T07:27:35.6865610Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Enemy\Ptero\Idle.xnb
+2011-06-29T07:26:45.4059950Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Enemy\Ptero\Run.xnb
+2011-06-29T07:27:24.8184730Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Enemy\Triceratops\Die.xnb
+2011-06-29T07:27:36.2455890Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Enemy\Triceratops\Idle.xnb
+2011-06-29T07:26:40.3374100Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Enemy\Triceratops\Run.xnb
+2011-06-29T07:27:15.0221680Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Enemy\Caveman\Die.xnb
+2011-06-29T07:27:35.2029310Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Enemy\Caveman\Idle.xnb
+2011-06-29T07:26:44.8719190Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Enemy\Caveman\Run.xnb
+2011-06-29T07:27:07.9716950Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Clouds\Idle.xnb
+2011-06-29T07:27:19.0532130Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Prehistoric\Clouds\Run.xnb
+2011-06-29T07:27:21.5744120Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Space\Deco\SpinningTeslaSS.xnb
+2011-06-29T07:26:41.4404820Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Space\Deco\TesaTower\Die.xnb
+2011-06-29T07:27:36.7937050Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Space\Deco\TesaTower\Idle.xnb
+2011-06-29T07:27:16.0275590Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Space\Deco\TesaTower\Run.xnb
+2011-06-29T07:27:22.3837970Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Space\Deco\Meteor\Die.xnb
+2011-06-29T07:27:36.5265160Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Space\Deco\Meteor\Idle.xnb
+2011-06-29T07:27:16.3286560Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Space\Deco\Meteor\Run.xnb
+2011-06-29T07:27:16.5748390Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Space\Enemys\Searcher\Die.xnb
+2011-06-29T07:27:37.5441280Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Space\Enemys\Searcher\Idle.xnb
+2011-06-29T07:27:08.2148120Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Space\Enemys\Searcher\Run.xnb
+2011-06-29T07:26:40.9375130Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Space\Enemys\Johnathan\Die.xnb
+2011-06-29T07:27:37.0346360Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Space\Enemys\Johnathan\Idle.xnb
+2011-06-29T07:26:41.2186280Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Space\Enemys\Johnathan\Run.xnb
+2011-06-29T07:27:15.4944920Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Space\Enemys\Saucer\Die.xnb
+2011-06-29T07:27:37.3057050Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Space\Enemys\Saucer\Idle.xnb
+2011-06-29T07:26:40.6515550Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Space\Enemys\Saucer\Run.xnb
+2011-06-29T07:27:15.2500860Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Health\BQL.xnb
+2011-06-29T07:27:07.0614770Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Health\BQG.xnb
+2011-06-29T07:27:06.9082640Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Health\BF.xnb
+2011-06-29T07:27:06.6061500Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Health\BH.xnb
+2011-06-29T07:27:06.7614340Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sprites\Health\BE.xnb
+2011-06-29T07:27:06.3969150Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\BlockB0.xnb
+2011-06-29T07:26:33.4570840Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Treetrunk.xnb
+2011-06-29T07:27:37.6529380Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\BlockB1.xnb
+2011-06-29T07:26:33.5757840Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Exit.xnb
+2011-06-29T07:26:37.0174400Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\GlassA.xnb
+2011-06-29T07:26:33.6942010Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Leaves.xnb
+2011-06-29T07:27:37.7657650Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Midieval\FloorA3.xnb
+2011-06-29T07:27:05.0074150Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Midieval\FloorA0.xnb
+2011-06-29T07:27:04.6019560Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Midieval\FloorA1.xnb
+2011-06-29T07:27:04.7203610Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Midieval\FloorA2.xnb
+2011-06-29T07:27:04.8442600Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Prehistoric\FloorA3.xnb
+2011-06-29T07:27:05.6316960Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Prehistoric\FloorA0.xnb
+2011-06-29T07:27:05.2268170Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Prehistoric\FloorA1.xnb
+2011-06-29T07:27:05.3650310Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Prehistoric\Fall.xnb
+2011-06-29T07:27:29.1270250Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Prehistoric\FloorA2.xnb
+2011-06-29T07:27:05.4981670Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Nursing\FloorA3.xnb
+2011-06-29T07:26:33.0193770Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Nursing\FloorA0.xnb
+2011-06-29T07:26:50.0395640Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Nursing\FloorA1.xnb
+2011-06-29T07:26:33.3341340Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Nursing\FloorA2.xnb
+2011-06-29T07:26:33.1566630Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Space\FloorA3.xnb
+2011-06-29T07:27:06.1995610Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Space\FloorA0.xnb
+2011-06-29T07:27:05.7848390Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Space\FloorA1.xnb
+2011-06-29T07:27:05.9143100Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Tiles\Space\FloorA2.xnb
+2011-06-29T07:27:06.0385230Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Midieval\Layer0_0.xnb
+2011-06-29T07:27:09.1369940Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Midieval\Layer2_0.xnb
+2011-06-29T07:26:53.9418580Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Midieval\Layer1_2.xnb
+2011-06-29T07:26:53.2923540Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Midieval\Layer2_2.xnb
+2011-06-29T07:26:54.9640870Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Midieval\Layer0_1.xnb
+2011-06-29T07:26:50.8442430Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Midieval\Layer0_2.xnb
+2011-06-29T07:26:51.7060420Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Midieval\Layer1_0.xnb
+2011-06-29T07:26:52.2184280Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Midieval\Layer1_1.xnb
+2011-06-29T07:26:52.7567000Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Midieval\Layer2_1.xnb
+2011-06-29T07:26:54.4493120Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Prehistoric\Layer0_0.xnb
+2011-06-29T07:26:55.5068130Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Prehistoric\Layer2_0.xnb
+2011-06-29T07:26:58.5229900Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Prehistoric\Layer1_2.xnb
+2011-06-29T07:26:58.0524970Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Prehistoric\Layer2_2.xnb
+2011-06-29T07:26:59.4345870Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Prehistoric\Layer0_1.xnb
+2011-06-29T07:26:56.0771900Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Prehistoric\Layer0_2.xnb
+2011-06-29T07:26:56.5851290Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Prehistoric\Layer1_0.xnb
+2011-06-29T07:26:57.1243340Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Prehistoric\Layer1_1.xnb
+2011-06-29T07:26:57.5821050Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Prehistoric\Layer2_1.xnb
+2011-06-29T07:26:58.9731520Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Nursing\Layer0_0.xnb
+2011-06-29T07:26:35.1074820Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Nursing\Layer0_0.png
+2011-06-23T00:53:04.6680000Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Nursing\Layer2_0.xnb
+2011-06-29T07:26:36.0720420Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Nursing\Layer1_2.xnb
+2011-06-29T07:26:48.9480210Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Nursing\Layer2_0.png
+2011-06-21T20:13:31.5534068Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Nursing\Layer2_2.xnb
+2011-06-29T07:26:49.4469980Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Nursing\Layer2_2.png
+2011-06-22T18:39:53.6007700Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Nursing\Layer0_1.xnb
+2011-06-29T07:40:59.5941960Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Nursing\Layer1_1.png
+2011-06-22T18:27:44.4330639Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Nursing\Layer0_2.png
+2011-06-22T18:26:45.9547192Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Nursing\Layer1_0.png
+2011-06-29T07:42:57.7193960Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Nursing\Layer0_2.xnb
+2011-06-29T07:26:48.0243270Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Nursing\Layer2_1.png
+2011-06-22T18:43:06.7938200Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Nursing\Layer1_0.xnb
+2011-06-29T07:48:30.6934500Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Nursing\Layer1_1.xnb
+2011-06-29T07:26:48.4910900Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Nursing\Layer0_1.png
+2011-06-29T07:33:17.9347850Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Nursing\Layer2_1.xnb
+2011-06-29T07:26:49.9344730Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Nursing\Layer1_2.png
+2011-06-22T18:35:29.2646508Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Space\Layer0_0.xnb
+2011-06-29T07:26:59.9954220Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Space\Layer2_0.xnb
+2011-06-29T07:27:03.2027840Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Space\Layer1_2.xnb
+2011-06-29T07:27:02.6586580Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Space\Layer2_2.xnb
+2011-06-29T07:27:04.4429840Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Space\Layer0_1.xnb
+2011-06-29T07:27:00.5400550Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Space\Layer0_2.xnb
+2011-06-29T07:27:01.0556090Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Space\Layer1_0.xnb
+2011-06-29T07:27:01.5826550Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Space\Layer1_1.xnb
+2011-06-29T07:27:02.1289320Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Backgrounds\Space\Layer2_1.xnb
+2011-06-29T07:27:03.7247780Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sounds\PlayerFall.xnb
+2011-06-29T07:27:38.7530580Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sounds\ExitReached.xnb
+2011-06-29T07:27:38.3857260Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sounds\MonsterKilled.xnb
+2011-06-29T07:27:38.5716270Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sounds\GemCollected.xnb
+2011-06-29T07:27:46.8973800Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sounds\PlayerKilled.xnb
+2011-06-29T07:27:39.1178470Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sounds\PlayerJump.xnb
+2011-06-29T07:27:38.9477430Z
+V:\TestSubjecta_June28\Platformer\Platformer\bin\Xbox 360\Debug\Content\Sounds\Powerup.xnb
+2011-06-29T07:27:39.3326230Z
